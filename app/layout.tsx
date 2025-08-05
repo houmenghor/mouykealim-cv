@@ -6,7 +6,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Lim Mouykea - CV",
-  description: "Professional CV of Lim Mouykea - Web Frontend Developer",
+  description: "https://mouykealim.vercel.app/",
     generator: 'v0.dev'
 }
 
